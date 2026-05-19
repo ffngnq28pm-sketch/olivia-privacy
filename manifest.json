@@ -1,0 +1,19 @@
+{
+  "name": "Olivia — Sagesse Chrétienne",
+  "short_name": "Olivia",
+  "description": "365 sagesses de la Bible et de la tradition chrétienne",
+  "start_url": "/olivia-privacy/",
+  "scope": "/olivia-privacy/",
+  "display": "standalone",
+  "background_color": "#0F0B18",
+  "theme_color": "#C4954A",
+  "orientation": "portrait",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/olivia-privacy/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
